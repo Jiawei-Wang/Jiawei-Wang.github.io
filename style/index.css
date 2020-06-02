@@ -1,1 +1,41 @@
- 
+#headertext {
+    color: #e65639;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text1 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text2 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+#text3 {
+    color: #e0dedc;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+.linktext {
+    color: #e65639;
+    font-family: Courier New, monospace;
+    font-weight: bold;
+    font-size: 22px
+}
+
+body {
+    font-family: Courier New, monospace;
+    font-size: 14px;
+    margin: 100px;
+    background-image: url("https://www.lefthudson.com/wp-content/uploads/2019/11/dark-wood-wallpaper-unique-dark-wood-wallpapers-wallpaper-cave-ideas-of-dark-wood-wallpaper.jpg");
+}
